@@ -1,2 +1,2 @@
-url="" # Import your url here
-api_key="" # Import your api_key here
+url= "https://4cd62e5c-7aa7-4c33-bf6f-904971042175.us-east4-0.gcp.cloud.qdrant.io:6333" # Import your url here
+api_key= "RrjjvZPg_4AzMZ2Krd37CagFFjPK7H189wbSOtSEwRkkMSLwaITK6A" # Import your api_key here

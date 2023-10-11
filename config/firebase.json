@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "",
-  "private_key_id": "",
-  "private_key": "",
-  "client_email": "",
-  "client_id": "",
+  "project_id": "trifecta-8f603",
+  "private_key_id": "22097eaecc6d0b6e536f32d64a518218c22f7981",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeP4VRuxr10LIO\nrmgEBmbLJ31fpcMDbNFJqQIVE/OSbJNcEJjLPbDRKFRM265eUg+ur3SlCs1lXTM9\nrZwsdqkxZfMlIqBZbVRFW0DDly1ZWlU0UqO2ZgXRIj2+CtokiaL5iBpkROtdV3nl\nle3meEZhzXVhI/UamdYdii3E4+rufXxw/fPCIs2odwKdeXaCTML9jn2MCB4bI0db\nIKKCz9xmYS1NP5PSvlxgC7bsd1zWJyuOJXvIZTQD43mwrQ2kZM5NWMCGjSVVReL2\n3SMbDbA76nL6X0EI7muzh/MPN810Uts83T3PHRCzGhLEWsGsxe0gXb+E8Ic29esq\nEAt56khRAgMBAAECggEALsP32rTwHTfc/vC0pYfcxem4J9V9QZxdZybOijsYrqtu\nivUOqnVjNRR1gTckmxQmNUn9ry53j56Q34fYUN2KV6JYzh8jAvqHvm1ewM6C5NaI\nuos3fVY+HtU/KNPdLpIMOzDpF7u0UKPizqHVqdfeeNW2fAwbyY4v1A/7QaXXTj4J\nWoBJYOEfOH5TC0N+xAIeUXXS5hoCN+/R+8ji0yVt9tge7lv3jUSY7lhObX2Djn/L\nkBwkq8GaiB3yDTpNjp7k2gkFGg2F97IFXik8axEmjIbvd89R/nu58GkHQnf1/H5j\njWb1TmMnOS2vIFEKpRGWZ31u20GHkk2NCcPeVd5xRwKBgQDK0ZqwyolzIoyo3E6N\nwp8ccOy2oKGZy5BF8Zsx7TTyDOb3yQbHifbLimwgL7LqKJ5mzEzVeYFOH8XvMV2r\ne70TbdTA/nu3l0bIFXB1umH8isRzQIadxPWJMYrHXJky6XSt0BaK0L4rEikIWnu9\nF0tYMXQfq33G+K8Hg8vry3eGCwKBgQDHvhJPNiPdKXEKruZYz6JOIgo6SZLOYqW3\neB2cXK9bCvD+6cHnL7xtTG/hoiP0QrOZyxU8wcp0xLJLW/DKoOFeFWMprRwkQPKU\ngPbzLY/0rRB0IJD3M9mUNYKJy/7HUbA5cV6J12QrZUbSVFmaMnxrX/EpJHmo3pH5\n7/9ZXJrwkwKBgGWy4JxRksZ2xo1Nmt4efuYmAaw5s46IsllAIw/P38KXkaEh3hJk\nLao2SK2C/XXI1FS7kLNib+IasIeV+2AnddGuOwZjFOokIsvlZDTENqoJcyRPcLDf\nuDcI7ou09OTAh084jnUg4pp6SrTzmiRg79jTQ2U1+qWwwSNFhRVBOzetAoGBAMLW\nrZWHAkTh/9qj8R4ArBn7Km7hBcs8ftoQ2RGFd6gfbCW8b+DLt8oGHbzDJL9HsVn7\nt6OkhZCRrjnEXYXKmQvlYO1uZ10V3YruofVkJGBP0RT2D3KTqVHhQIyZ6NUU4gmm\nhMmAyb1q9UKF9UFsreEvnVa8tc/8C/j6GuNYaerxAoGASW58iAqhfOTJyPOx+HqE\n2WgV5nMflTwQdAvMfEK7sFFZWdsn9vFhLdKKj0wLikcHeG0RwjnJSxnnT+oxVWBW\nMNEZkkBmawEKx4B02UOb8iQeCuzHjDhrf9o8pJo2Ckq8WJL6A7bLUBwo+D/99Rbu\nG0ji5UX9Dor1l7uS09vquCQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pd2mq@trifecta-8f603.iam.gserviceaccount.com",
+  "client_id": "115667811396268788248",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vjlxa%40glimpse-compai.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pd2mq%40trifecta-8f603.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
